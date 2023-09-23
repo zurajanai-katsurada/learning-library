@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "[Link to Technology Image]",
+      "Title": "Demystifying Quantum Computing: A Beginner's Guide",
+      "Author": "Tech Enthusiast",
+      "Author_Image": "[Link to Author Image]",
+      "Posted_Date": "July 15, 2023",
+      "Reading_Time": 8,
+      "Hashtags": ["#QuantumComputing", "#TechExplained", "#FutureTech"]
+    },
+    {
+      "ID": 67890,
+      "Cover": "[Link to Technology Image]",
+      "Title": "The Rise of AI in Modern Cooking: Smart Kitchens",
+      "Author": "Tech Innovator",
+      "Author_Image": "[Link to Author Image]",
+      "Posted_Date": "August 5, 2023",
+      "Reading_Time": 10,
+      "Hashtags": ["#AI", "#SmartKitchen", "#FoodTech"]
+    },
+    {
+      "ID": 13579,
+      "Cover": "[Link to Technology Image]",
+      "Title": "Unveiling the Next-Gen Space Telescopes",
+      "Author": "SpaceTech Expert",
+      "Author_Image": "[Link to Author Image]",
+      "Posted_Date": "September 10, 2023",
+      "Reading_Time": 12,
+      "Hashtags": ["#SpaceTech", "#Astronomy", "#Innovation"]
+    },
+    {
+      "ID": 24680,
+      "Cover": "[Link to Technology Image]",
+      "Title": "Mastering Digital Marketing Trends in 2023",
+      "Author": "Digital Marketing Pro",
+      "Author_Image": "[Link to Author Image]",
+      "Posted_Date": "June 25, 2023",
+      "Reading_Time": 7,
+      "Hashtags": ["#DigitalMarketing", "#MarketingTrends", "#OnlineStrategies"]
+    },
+    {
+      "ID": 54321,
+      "Cover": "[Link to Technology Image]",
+      "Title": "The Power of AI-Driven Meditation Apps",
+      "Author": "Tech Wellness Advocate",
+      "Author_Image": "[Link to Author Image]",
+      "Posted_Date": "July 30, 2023",
+      "Reading_Time": 6,
+      "Hashtags": ["#AI", "#MeditationTech", "#Wellness"]
+    }
+  ]
+  
