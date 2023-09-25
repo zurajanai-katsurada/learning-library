@@ -4,7 +4,7 @@
       "cover": "https://i.ibb.co/KXCSfYf/2.png",
       "title": "Demystifying Quantum Computing: A Beginner's Guide",
       "author": "Tech Enthusiast",
-      "author_image": "[Link to Author Image]",
+      "author_image": "https://i.ibb.co/jDt8QQZ/boy1.png",
       "posted_date": "July 15, 2023",
       "reading_time": 8,
       "hashtags": ["#QuantumComputing", "#TechExplained", "#FutureTech"]
@@ -14,7 +14,7 @@
       "cover": "https://i.ibb.co/4FYdWzz/1.jpg",
       "Title": "The Rise of AI in Modern Cooking: Smart Kitchens",
       "author": "Tech Innovator",
-      "author_image": "[Link to Author Image]",
+      "author_image": "https://i.ibb.co/ZNtZNGb/boy2.jpg",
       "posted_date": "August 5, 2023",
       "reading_time": 10,
       "hashtags": ["#AI", "#SmartKitchen", "#FoodTech"]
@@ -24,7 +24,7 @@
       "cover": "https://i.ibb.co/BfwLdY0/3.png",
       "title": "Unveiling the Next-Gen Space Telescopes",
       "author": "SpaceTech Expert",
-      "author_image": "[Link to Author Image]",
+      "author_image": "https://i.ibb.co/hcmSc5F/girl1.jpg",
       "posted_date": "September 10, 2023",
       "reading_time": 12,
       "hashtags": ["#SpaceTech", "#Astronomy", "#Innovation"]
@@ -34,20 +34,11 @@
       "cover": "https://i.ibb.co/sFZSFSS/4.jpg",
       "title": "Mastering Digital Marketing Trends in 2023",
       "author": "Digital Marketing Pro",
-      "author_image": "[Link to Author Image]",
+      "author_image": "https://i.ibb.co/X43YjT6/girl2.jpg",
       "posted_date": "June 25, 2023",
       "reading_time": 7,
       "hashtags": ["#DigitalMarketing", "#MarketingTrends", "#OnlineStrategies"]
-    },
-    {
-      "id": 5,
-      "cover": "[Link to Technology Image]",
-      "title": "The Power of AI-Driven Meditation Apps",
-      "author": "Tech Wellness Advocate",
-      "author_image": "[Link to Author Image]",
-      "posted_date": "July 30, 2023",
-      "reading_time": 6,
-      "hashtags": ["#AI", "#MeditationTech", "#Wellness"]
     }
+    
   ]
   
